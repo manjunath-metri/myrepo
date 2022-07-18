@@ -2,5 +2,4 @@
 
 ls
 pwd
-df -sh
 
